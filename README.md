@@ -64,6 +64,8 @@ Feeling_So_Fresh.mp3
 Audit_The_Self.mp3
 Mixing_Exploits_II.mp3
 Kali_Linux_Dreaming_II.mp3
+sudo.mp3
+Success_Story.mp3
 ```
 
 ---
